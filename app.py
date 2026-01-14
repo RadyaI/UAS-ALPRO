@@ -105,7 +105,7 @@ if 'active_page' not in st.session_state:
 
 # --- SIDEBAR NAVIGATION ---
 st.sidebar.title("Navigasi Project")
-st.sidebar.write("Pilih Modul:")
+st.sidebar.write("Pilih Algoritma:")
 
 if st.sidebar.button("🗜️ Huffman Coding", use_container_width=True):
     st.session_state.active_page = "Huffman"
