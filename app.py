@@ -110,7 +110,7 @@ st.sidebar.write("Pilih Modul:")
 if st.sidebar.button("🗜️ Huffman Coding", use_container_width=True):
     st.session_state.active_page = "Huffman"
 
-if st.sidebar.button("🌳 Binary Tree", use_container_width=True):
+if st.sidebar.button("🌳 Binary Traversal", use_container_width=True):
     st.session_state.active_page = "BST"
 
 st.sidebar.markdown("---")
