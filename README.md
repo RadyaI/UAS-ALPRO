@@ -9,6 +9,9 @@
 
 > Live Preview -> https://uas-alpro.streamlit.app/
 
+> Jika halaman menunjukkan "This app has gone to sleep due to inactivity. Would you like to wake it back up?"
+> Tekan tombol "Yes, get this app back up!"
+
 ## 📚 Deskripsi Proyek
 
 Aplikasi ini dirancang untuk memvisualisasikan dua studi kasus algoritma secara interaktif, sehingga memudahkan pengguna dalam memahami konsep struktur data. Algoritma yang diimplementasikan adalah:
