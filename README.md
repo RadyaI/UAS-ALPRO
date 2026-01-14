@@ -7,6 +7,8 @@
 | **Nur Aini** | 202410370110381 |
 | **Muhammad Radya Iftikhar** | 202410370110370 |
 
+> Live Preview -> https://uas-alpro.streamlit.app/
+
 ## 📚 Deskripsi Proyek
 
 Aplikasi ini dirancang untuk memvisualisasikan dua studi kasus algoritma secara interaktif, sehingga memudahkan pengguna dalam memahami konsep struktur data. Algoritma yang diimplementasikan adalah:
