@@ -6,6 +6,8 @@
 | :--- | :--- |
 | **Nur Aini** | 202410370110381 |
 | **Muhammad Radya Iftikhar** | 202410370110370 |
+| **Ayshea Marvella Pasha** | 202410370110379 |
+| **Alifia Nadia Ruksana** | 202410370110334 |
 
 > Live Preview -> https://uas-alpro.streamlit.app/
 
