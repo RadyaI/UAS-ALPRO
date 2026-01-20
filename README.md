@@ -1,6 +1,6 @@
 # UAS Algoritma Pemrograman - Kelas F
 
-## 👥 Anggota Kelompok
+## Anggota Kelompok
 
 | Nama Lengkap | NIM |
 | :--- | :--- |
@@ -14,7 +14,7 @@
 > Jika halaman menunjukkan "This app has gone to sleep due to inactivity. Would you like to wake it back up?"
 > Tekan tombol "Yes, get this app back up!"
 
-## 📚 Deskripsi Proyek
+## Deskripsi Proyek
 
 Aplikasi ini dirancang untuk memvisualisasikan dua studi kasus algoritma secara interaktif, sehingga memudahkan pengguna dalam memahami konsep struktur data. Algoritma yang diimplementasikan adalah:
 
@@ -34,7 +34,7 @@ Implementasi struktur data pohon biner pencarian. Fitur mencakup:
     * **InOrder** (Left -> Root -> Right)
     * **PostOrder** (Left -> Right -> Root)
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * **Bahasa Pemrograman:** Python 3.x
 * **Framework Web:** Streamlit
